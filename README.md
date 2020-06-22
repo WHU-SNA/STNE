@@ -100,3 +100,5 @@ If you find this repository useful in your research, please cite our paper:
   pages={678-687}
 }
 ```
+
+Moreover, if you are interested in the topic of **social trust network**, you may want to know our another work "[Opinion Maximization in Social Trust Networks](http://arxiv.org/abs/2006.10961)" (IJCAI 2020).
