@@ -72,8 +72,8 @@ We perform sign prediction to evaluate the node embeddings. And we use `AUC` and
 
 Run `python src/main.py`, and the output is printed like the following:
 ```
-Optimizing: 100%|███████████████████████████████████████████| 151160/151160 [26:26<00:00, 95.30it/s]
-Sign prediction: AUC 0.881, F1 0.757
+Optimizing: 100%|█████████████████████████████████████████████| 75496/75496 [13:20<00:00, 94.32it/s]
+Sign prediction: AUC 0.874, F1 0.747
 ```
 Like the other methods in Skip-Gram family, we only perform one-epoch training.
 
