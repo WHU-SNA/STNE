@@ -1,5 +1,5 @@
 # STNE
-Python implementation of  the method proposed in "[Social trust Network Embedding](https://ieeexplore.ieee.org/document/8970926)", Pinghua Xu, Wenbin Hu, Jia Wu, Weiwei Liu, Bo Du and Yang Jian, ICDM 2019.
+Python implementation of  the method proposed in "[Social trust Network Embedding](https://ieeexplore.ieee.org/document/8970926)", Pinghua Xu, Wenbin Hu, Jia Wu, Weiwei Liu, Bo Du and Jian Yang, ICDM 2019.
 
 ## Overview
 This repository is organised as follows:
