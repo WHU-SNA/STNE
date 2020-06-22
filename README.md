@@ -97,5 +97,6 @@ If you find this repository useful in your research, please cite our paper:
   booktitle={2019 IEEE International Conference on Data Mining (ICDM)},
   title={Social Trust Network Embedding},
   year={2019},
-  pages={678-687}}
+  pages={678-687}
+}
 ```
