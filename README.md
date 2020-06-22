@@ -18,7 +18,7 @@ The implementation is tested under Python 3.7, with the folowing packages instal
 ## Input
 We investigated **social trust network**, which can be represented by a **directed signed (un)weighted** graph, in this work.
 
-The code takes an input graph in `.txt` format. Every row indicates an edge between two nodes separated by a `space` or `\t`. The file does not contain a header. Nodes can be indexed starting with any non-negative number. Five example graphs are included in the `input/` directory. Among these graphs, `WikiElec`, `WikiRfa`, `Slashdot` and `Epinions` are donwloaded from [SNAP](http://snap.stanford.edu/data/#signnets), but node ID is resorted, and `WikiEditor` is generated folloing the according description in our paper. The structure of the input file is the following:
+The code takes an input graph in `.txt` format. Every row indicates an edge between two nodes separated by a `space` or `\t`. The file does not contain a header. Nodes can be indexed starting with any non-negative number. Five example graphs are included in the `input/` directory. Among these graphs, `WikiElec`, `WikiRfa`, `Slashdot` and `Epinions` are donwloaded from [SNAP](http://snap.stanford.edu/data/#signnets), but node ID is resorted, and `WikiEditor` is generated according to the description in our paper. The structure of the input file is the following:
 
 | Source node | Target node | Weight |
 | :-----:| :----: | :----: |
