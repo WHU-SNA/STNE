@@ -64,7 +64,7 @@ python src/main.py --split_seed 20 --test-size 0.3
 
 Train an SLF model on the `WikiRfa` dataset:
 ```
-python src/main.py --edge-path ./input/WikiRfa.txt  --outward-embedding-path ./output/WikRfa_outward --inward-embedding-path ./output/WikiRfa_inward
+python src/main.py --edge-path ./input/WikiRfa.txt  --outward-embedding-path ./output/WikiRfa_outward --inward-embedding-path ./output/WikiRfa_inward
 ```
 
 ## Output
