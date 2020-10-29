@@ -102,4 +102,4 @@ If you find this repository useful in your research, please cite our paper:
 Moreover, if you are interested in the topic of **social trust network**, you may want to know our another work "[Opinion Maximization in Social Trust Networks](http://arxiv.org/abs/2006.10961)" (IJCAI 2020).
 
 ## Correction
-Correction on a typo. Page 7, Sec. IV.A. "In the relationship prediction tasks, we randomly selected \alpha % of the relationships as the test set, and the remaining (100 - $\alpha$) % were used for training" -> "In the relationship prediction tasks, we randomly selected \alpha % of the relationships as the training set, and the remaining (100 - \alpha) % were used for test"
+Correction on a typo. Page 7, Sec. IV.A. "In the relationship prediction tasks, we randomly selected \alpha % of the relationships as the test set, and the remaining (100 - \alpha) % were used for training" -> "In the relationship prediction tasks, we randomly selected \alpha % of the relationships as the training set, and the remaining (100 - \alpha) % were used for test"
