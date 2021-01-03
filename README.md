@@ -1,8 +1,8 @@
 # STNE
-Python implementation of  the method proposed in "[Social trust Network Embedding](https://ieeexplore.ieee.org/document/8970926)", Pinghua Xu, Wenbin Hu, Jia Wu, Weiwei Liu, Bo Du and Jian Yang, ICDM 2019.
+A Python implementation of the more flexible version of the method proposed in "[Social trust Network Embedding](https://ieeexplore.ieee.org/document/8970926)", Pinghua Xu, Wenbin Hu, Jia Wu, Weiwei Liu, Bo Du and Jian Yang, ICDM 2019. In this implementation, one can use the co-occurance node pair as positive samples instead of pairwise edges.
 
 ## Overview
-This repository is organised as follows:
+This repository is organized as follows:
 - `input/` contains four example graphs `WikiEditor` `WikiElec` `WikiRfa` `Slashdot` `Epinions`;
 - `output/` is the directory to store the learned node embeddings;
 - `src/` contains the implementation of the proposed STNE model.
